@@ -1,0 +1,272 @@
+[
+  {
+    "id": "1",
+    "title": "INTERNATIONAL BUSINESS",
+    "author": "Garth Stein",
+    "genre": "Fiction",
+    "quantity": 5,
+    "status": "Available",
+    "branch": "MBA",
+    "coverImage": "https://cdn.penguin.co.in/wp-content/uploads/2024/08/9780241737941-1.jpg"
+  },
+  {
+    "id": "2",
+    "title": "F1: The Official History",
+    "author": "Maurice Hamilton",
+    "genre": "Sports",
+    "quantity": 2,
+    "status": "Available",
+    "branch": "BBA",
+    "coverImage": "https://images.unsplash.com/photo-1532103039145-9940aa2842d0?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "3",
+    "title": "Speed Secrets",
+    "author": "Ross Bentley",
+    "genre": "Technical",
+    "quantity": 3,
+    "status": "Reserved",
+    "branch": "B.Tech Computer Science Engineering (CSE)",
+    "coverImage": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "4",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "genre": "Technical",
+    "quantity": 12,
+    "status": "Available",
+    "branch": "BCA (Bachelor of Computer Applications)",
+    "coverImage": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "5",
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt",
+    "genre": "Technical",
+    "quantity": 8,
+    "status": "Available",
+    "branch": "Software Engineering",
+    "coverImage": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "6",
+    "title": "AI: A Modern Approach",
+    "author": "Stuart Russell",
+    "genre": "Technical",
+    "quantity": 4,
+    "status": "Reserved",
+    "branch": "Artificial Intelligence & Machine Learning (AI/ML)",
+    "coverImage": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "7",
+    "title": "The Intelligent Investor",
+    "author": "Benjamin Graham",
+    "genre": "Biography",
+    "quantity": 15,
+    "status": "Available",
+    "branch": "Banking & Finance",
+    "coverImage": "https://images.unsplash.com/photo-1611974714158-f88c5ef33496?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "8",
+    "title": "Zero to One",
+    "author": "Peter Thiel",
+    "genre": "Biography",
+    "quantity": 6,
+    "status": "Available",
+    "branch": "Marketing Management",
+    "coverImage": "https://images.unsplash.com/photo-1553481187-be93c21490a9?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "9",
+    "title": "Principles",
+    "author": "Ray Dalio",
+    "genre": "Biography",
+    "quantity": 10,
+    "status": "Available",
+    "branch": "Business Analytics",
+    "coverImage": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "10",
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "genre": "Technical",
+    "quantity": 7,
+    "status": "Available",
+    "branch": "Human Resource Management",
+    "coverImage": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "11",
+    "title": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen",
+    "genre": "Technical",
+    "quantity": 3,
+    "status": "Out of Stock",
+    "branch": "MCA",
+    "coverImage": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "12",
+    "title": "Principles of Marketing",
+    "author": "Philip Kotler",
+    "genre": "Technical",
+    "quantity": 9,
+    "status": "Available",
+    "branch": "Marketing Management",
+    "coverImage": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "13",
+    "title": "Compilers: Principles, Techniques, and Tools",
+    "author": "Alfred V. Aho",
+    "genre": "Technical",
+    "quantity": 4,
+    "status": "Available",
+    "branch": "BCA (Bachelor of Computer Applications)",
+    "coverImage": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "14",
+    "title": "Cloud Computing Patterns",
+    "author": "Christoph Fehling",
+    "genre": "Technical",
+    "quantity": 7,
+    "status": "Available",
+    "branch": "Information Technology (IT)",
+    "coverImage": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "15",
+    "title": "Data Science from Scratch",
+    "author": "Joel Grus",
+    "genre": "Technical",
+    "quantity": 10,
+    "status": "Available",
+    "branch": "Data Science",
+    "coverImage": "https://images.unsplash.com/photo-1551288049-bbbda536ad0a?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "16",
+    "title": "Hacking: The Art of Exploitation",
+    "author": "Jon Erickson",
+    "genre": "Technical",
+    "quantity": 2,
+    "status": "Reserved",
+    "branch": "Cyber Security",
+    "coverImage": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "17",
+    "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+    "author": "Erich Gamma",
+    "genre": "Technical",
+    "quantity": 5,
+    "status": "Available",
+    "branch": "Software Engineering",
+    "coverImage": "https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "18",
+    "title": "Digital Signal Processing",
+    "author": "John G. Proakis",
+    "genre": "Technical",
+    "quantity": 4,
+    "status": "Available",
+    "branch": "Information Science Engineering (ISE)",
+    "coverImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "19",
+    "title": "Operating System Concepts",
+    "author": "Abraham Silberschatz",
+    "genre": "Technical",
+    "quantity": 8,
+    "status": "Available",
+    "branch": "B.Sc Computer Science",
+    "coverImage": "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "20",
+    "title": "Financial Accounting",
+    "author": "Robert Libby",
+    "genre": "Technical",
+    "quantity": 12,
+    "status": "Available",
+    "branch": "Accounting",
+    "coverImage": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "21",
+    "title": "International Business: Text and Cases",
+    "author": "Francis Cherunilam",
+    "genre": "Technical",
+    "quantity": 9,
+    "status": "Available",
+    "branch": "B.Com",
+    "coverImage": "src/assets/images/international_business_cover.jpg"
+  },
+  {
+    "id": "22",
+    "title": "Advanced Macroeconomics",
+    "author": "David Romer",
+    "genre": "Technical",
+    "quantity": 3,
+    "status": "Reserved",
+    "branch": "M.Com",
+    "coverImage": "https://images.unsplash.com/photo-1507679799987-c73774573b0a?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "23",
+    "title": "Consumer Behavior",
+    "author": "Leon Schiffman",
+    "genre": "Technical",
+    "quantity": 6,
+    "status": "Available",
+    "branch": "Marketing Management",
+    "coverImage": "https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "24",
+    "title": "Human Resource Management Strategy",
+    "author": "Raymond Noe",
+    "genre": "Technical",
+    "quantity": 8,
+    "status": "Available",
+    "branch": "Human Resource Management",
+    "coverImage": "https://images.unsplash.com/photo-1521791136064-7986c29535a7?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "25",
+    "title": "The Wealth of Nations",
+    "author": "Adam Smith",
+    "genre": "Technical",
+    "quantity": 15,
+    "status": "Available",
+    "branch": "Banking & Finance",
+    "coverImage": "https://images.unsplash.com/photo-1526304640581-d334cdbbf32d?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "26",
+    "title": "Competitive Strategy",
+    "author": "Michael Porter",
+    "genre": "Technical",
+    "quantity": 5,
+    "status": "Available",
+    "branch": "MBA",
+    "coverImage": "src/assets/images/regenerated_image_1778579753241.jpg"
+  },
+  {
+    "id": "27",
+    "title": "Essentials of Business Analytics",
+    "author": "Jeffrey Camm",
+    "genre": "Technical",
+    "quantity": 4,
+    "status": "Available",
+    "branch": "Business Analytics",
+    "coverImage": "https://images.unsplash.com/photo-1551288049-bbbda536ad0a?auto=format&fit=crop&q=80&w=400"
+  }
+]
